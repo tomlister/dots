@@ -1,0 +1,1 @@
+NOTE: this widget can be a little buggy sometimes. especially when it can't reach the server and the request fucks up.
